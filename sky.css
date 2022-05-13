@@ -1,0 +1,14 @@
+.header{
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+.lingkaran {
+    width: 150px;
+    height: 150px;
+}
+
+.kotak {
+    width: 400px;
+    height: 400px;
+}
